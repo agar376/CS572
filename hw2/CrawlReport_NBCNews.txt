@@ -1,0 +1,45 @@
+Name: Shobhit Agarwal
+USC ID: 6473476393
+News site crawled: nbcnews.com
+
+Fetch Statistics
+================
+# fetches attempted: 19938
+# fetches succeeded: 19021
+# fetches aborted: 401
+# fetches failed: 516
+
+Outgoing URLs:
+==============
+Total URLs extracted: 780503
+# unique URLs extracted: 198301
+# unique URLs within News Site: 40936
+# unique URLs outside News Site: 157365
+
+Status Codes:
+=============
+200 OK: 19021
+301 Moved Permanently: 348
+302 Moved Temporarily: 53
+401 Unauthorized: 0
+403 Forbidden: 0
+404 Not Found: 511
+502 Bad Gateway: 5
+
+File Sizes:
+===========
+< 1KB: 4
+1KB ~ <10KB: 9
+10KB ~ <100KB: 10805
+100KB ~ <1MB: 8182
+>= 1MB: 21
+
+Content Types:
+==============
+text/html: 19003
+image/gif: 3
+image/jpeg: 0
+image/png: 1
+image/vnd.microsoft.icon: 1
+application/pdf: 0
+text/css: 13 (the URL is a REST service that returns CSS as a service, hence could not be filtered out. The URLs do not have a file extension associated with them)
