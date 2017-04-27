@@ -1,0 +1,344 @@
+Name: Shobhit AgarwalUSC ID: 6473476393CS 572 Homework 1RQ1: Which search engine performs best when considering the first five results for a given query?Both the search engines seem to be similar in their search results. According to the below relevancy data and the graphs built in the spreadsheet, and comparing the top 5 search results from Google and Bing, both the search engines seem to have similar results. Considering the informational queries, Google and Bing had similar relevancy score, with a lot of overlapping results as well, however when we look at the Navigational Queries, Google seems to be performing slightly better than Bing. Their result set also does not overlap to that extent when compared with the informational queries.Furthermore, considering query 13 as well, Google provided a better result set without any overlapping results with Bing, as well as there was no relevant search result from Bing. Therefore, considering all the thirteen queries and their result set, I would prefer Google and say that Google is a better search engine than Bing.RQ2: Is there a difference in relevance between the search engines when considering informational queries and navigational queries, respectively?Informational Queries:While considering the informational queries (Query 1-9), both the search engines seem to be performing relatively similar to each other while considering the top 5 search results returned from the search. There were a lot of overlapping results from the two search engines (as can be seen from the graph in 2.2 in the spreadsheet). The order of the result might differ but considering the relevancy both the search engines were similar.Considering the graphs from 2.3 in spreadsheet, we can see that the relevancy score of both the search engines are similar with Google performing better in one query and Bing performing better in the other. So overall I would say that both Google and Bing seem to be similar for Informational Queries.Navigational Queries:While considering the navigational queries (Query 10-12), Google seems to be performing slightly better than Bing. As can be seen from the graph in 2.2 in spreadsheet, very few overlapping results in the two search engines. The graphs from 2.1 also depict that Google scored a higher relevancy in the top 5 results as compared with Bing.Considering the graphs from 2.3 in the spreadsheet, Google seem to be performing better than Bing. The search results from Google were more relevant to the search query.Overall, I would rate Google to be performing better with more relevant search results for navigational queries.Query 1
+Pamela McCann Price
+
+Google
+https://priceschool.usc.edu/pamela-mccann/
+1
+https://bedrosian.usc.edu/faculty/pamela-mccann/
+1
+https://scholar.google.com/citations?user=xWzmAEcAAAAJ&hl=en
+0.25
+http://evans.uw.edu/profile/mccann
+0
+https://www.facebook.com/pamela.mccann.54
+0
+
+Bing
+https://priceschool.usc.edu/pamela-mccann/
+1
+https://bedrosian.usc.edu/faculty/pamela-mccann/
+1
+http://batten.virginia.edu/research/speakers/pamela-mccann
+0
+http://healthpolicy.usc.edu/ListItemFaculty.aspx?Title=Pamela%20McCann,%20Ph.D.&CategoryIX=1
+1
+https://www.youtube.com/watch?v=XKde-v87M6A
+0.25
+
+
+Query 2
+glenn melnick price
+
+Google
+https://priceschool.usc.edu/glenn-melnick/
+1
+http://healthpolicy.usc.edu/ListItemFaculty.aspx?ID=11&CategoryIX=1
+1
+http://www.rand.org/about/people/m/melnick_glenn.html
+0
+http://profiles.sc-ctsi.org/glenn.melnick
+1
+http://content.healthaffairs.org/content/32/6/1101.abstract
+0
+
+Bing
+https://priceschool.usc.edu/glenn-melnick/
+1
+http://www.rand.org/about/people/m/melnick_glenn.html
+0
+http://www-bcf.usc.edu/~ippam/faculty-glenn-m.html
+1
+http://profiles.sc-ctsi.org/glenn.melnick
+1
+http://healthpolicy.usc.edu/ListItem.aspx?ID=11
+0.5
+
+Query 3
+tara blanc price
+
+Google
+https://priceschool.usc.edu/tara-blanc/
+1
+http://www.latimes.com/cyca-hoist-3-jpg-20150725-photo.html
+0
+http://www.wine-searcher.com/find/tara+blanc+du+bois+dry+texas+usa
+0
+https://www.facebook.com/public/Tara-Blanc
+0
+http://www.cengage.com/search/productOverview.do?N=16+4294922390+4294918063&Ntk=P_EPI&Ntt=104070941010901257265496472361267133465&Ntx=mode%2Bmatchallpartial
+0
+
+Bing
+http://priceschool.usc.edu/tara-blanc/
+1
+http://priceschool.usc.edu/files/2013/06/T-Blanc-CV.pdf
+0.25
+https://www.amazon.com/Oasis-City-Tara-Blanc/dp/0929690516
+0
+https://www.vivino.com/wineries/tara-49658/wines/cotes-du-ventoux-blanc-9999
+0
+http://www.wine-searcher.com/find/tara
+0
+
+Query 4
+public policy price
+
+Google
+http://priceschool.usc.edu/
+0.5
+https://priceschool.usc.edu/programs/masters/mpp/
+0.5
+http://priceschool.usc.edu/programs/undergraduate/
+0
+https://priceschool.usc.edu/public-policy/
+1
+https://priceschool.usc.edu/programs/masters/
+0
+
+Bing
+http://priceschool.usc.edu/
+0
+https://priceschool.usc.edu/public-policy/
+1
+http://www.usc.edu/directories/dept/price.html
+0
+https://en.wikipedia.org/wiki/USC_Sol_Price_School_of_Public_Policy
+0
+http://catalogue2014.usc.edu/files/2010/06/price.pdf
+0.5
+
+Query 5
+urban planning price
+
+Google
+https://priceschool.usc.edu/urban-planning/
+1
+http://priceschool.usc.edu/programs/masters/mpl/
+0.5
+http://priceschool.usc.edu/
+0
+https://priceschool.usc.edu/programs/phd/upd/
+0.5
+http://priceschool.usc.edu/programs/undergraduate/
+0
+
+Bing
+https://priceschool.usc.edu/urban-planning/
+1
+http://priceschool.usc.edu/programs/masters/mpl/
+0.5
+https://taubmancollege.umich.edu/urbanplanning/facilities-resources/media-center/prices
+0
+https://www.aliexpress.com/price/urban-planning-city_price.html
+0
+https://www.bls.gov/ooh/Life-Physical-and-Social-Science/Urban-and-regional-planners.htm
+0
+
+Query 6
+public administration price
+
+Google
+https://priceschool.usc.edu/programs/masters/mpa/
+0.5
+https://priceschool.usc.edu/public-administration/
+1
+https://priceschool.usc.edu/programs/masters/mpa/admission/
+0.5
+http://priceschool.usc.edu/
+0
+https://priceschool.usc.edu/programs/masters/mpa/curriculum/
+0.5
+
+Bing
+http://priceschool.usc.edu/programs/masters/mpa/
+0.5
+http://priceschool.usc.edu/public-administration/
+1
+http://publicadmin.usc.edu/
+0.5
+https://pricestudentblog.usc.edu/category/public-administration/
+0.5
+https://www.snapdeal.com/product/public-administration/682809746898
+0
+
+Query 7
+price usc map
+
+Google
+https://priceschool.usc.edu/mind-the-map-the-next-generation-of-maps-offers-new-discoveries/
+0
+https://priceschool.usc.edu/
+0
+http://www.lacoliseum.com/index.php/parking/
+0.5
+http://www.thelorenzo.com/floorplans/#botticelli
+0
+http://stadiumparkingguides.com/los-angeles-memorial-coliseum-parking/
+0
+
+Bing
+http://web-app.usc.edu/maps/
+1
+http://priceschool.usc.edu/
+0
+http://priceschool.usc.edu/naut/info/getting/directions/
+1
+http://visit.usc.edu/maps-directions/
+0
+http://visit.usc.edu/maps-directions/university-park-campus/
+0
+
+Query 8
+sol price
+
+Google
+https://en.wikipedia.org/wiki/Sol_Price
+1
+http://priceschool.usc.edu/
+0.5
+http://www.washingtonpost.com/wp-dyn/content/article/2009/12/14/AR2009121403336.html
+0.5
+http://www.nytimes.com/2009/12/16/business/16price.html
+0.5
+http://articles.latimes.com/1989-04-28/local/me-1702_1_sol-price-price-clubs-emotional-distress
+0
+
+Bing
+https://en.wikipedia.org/wiki/Sol_Price
+1
+http://www.nytimes.com/2009/12/16/business/16price.html
+0.5
+http://www.washingtonpost.com/wp-dyn/content/article/2009/12/14/AR2009121403336.html
+0.5
+http://priceschool.usc.edu/
+0.5
+http://www.wheresourmoney.org/sol-price-capitalist-hero/
+0
+
+Query 9
+usc price alumni
+
+Google
+https://priceschool.usc.edu/alumni/
+1
+https://priceschool.usc.edu/alumni/alumni-board/
+1
+https://priceschool.usc.edu/alumni/stories/
+1
+https://priceschool.usc.edu/careers/
+0.5
+https://priceschool.usc.edu/initiatives/nonprofits-and-philanthropy/alumni/
+0.25
+
+Bing
+http://priceschool.usc.edu/alumni/
+1
+https://priceschool.usc.edu/alumni/alumni-board/
+1
+https://www.facebook.com/USCPriceAlumniAssociation
+1
+https://alumni.usc.edu/
+0.25
+https://priceschool.usc.edu/alumni/homecoming/
+1
+
+Query 10
+USC Public Policy Undergraduate degree requirements
+
+Google
+https://priceschool.usc.edu/programs/undergraduate/curriculum/
+0.5
+http://priceschool.usc.edu/programs/undergraduate/
+0.5
+https://priceschool.usc.edu/programs/undergraduate/admission/
+0.5
+https://priceschool.usc.edu/
+0
+https://priceschool.usc.edu/programs/undergraduate/bs-public-policy/curriculum/
+1
+
+Bing
+http://priceschool.usc.edu/
+0
+http://priceschool.usc.edu/admission/
+0.5
+http://healthpolicy.usc.edu/Undergraduate-Programs.aspx
+0
+http://catalogue.usc.edu/content.php?catoid=2&navoid=307
+0.5
+http://gould.usc.edu/academics/curriculum/dual-degree-programs/
+0
+
+Query 11
+USC Public Policy Masters degree requirements
+
+Google
+https://priceschool.usc.edu/programs/masters/mpp/
+0.5
+https://priceschool.usc.edu/programs/masters/mpp/admission/
+0.5
+https://priceschool.usc.edu/programs/masters/mpp/curriculum/
+1
+https://priceschool.usc.edu/
+0
+http://priceschool.usc.edu/programs/masters/mpp/admission/faq/
+0.5
+
+Bing
+http://priceschool.usc.edu/
+0
+http://priceschool.usc.edu/programs/masters/mpp/
+0.5
+http://catalogue.usc.edu/content.php?catoid=2&navoid=307&print
+0.5
+http://catalogue.usc.edu/preview_program.php?catoid=2&poid=1725&returnto=307
+1
+https://online.usc.edu/programs/master-of-public-administration/
+1
+
+Query 12
+USC Public Policy PHD degree requirements
+
+Google
+http://priceschool.usc.edu/programs/phd/
+0
+https://priceschool.usc.edu/programs/phd/admission/
+0.5
+https://priceschool.usc.edu/programs/phd/ppm/
+1
+https://priceschool.usc.edu/
+0
+https://priceschool.usc.edu/programs/doctoral/
+0
+
+Bing
+http://priceschool.usc.edu/
+0
+http://catalogue.usc.edu/preview_program.php?catoid=2&poid=1754&returnto=307
+1
+https://dornsife.usc.edu/econ/program-requirements/
+0
+http://priceschool.usc.edu/programs/masters/mpp/
+0
+http://catalogue.usc.edu/content.php?catoid=6&navoid=1331
+0
+
+
+Query 13
+usc price founder story
+
+Google
+https://priceschool.usc.edu/alumni/stories/
+0.5https://priceschool.usc.edu/about/about-sol-price-and-the-naming-gift/1https://priceschool.usc.edu/programs/masters/mpa/alumni-stories/0
+https://priceschool.usc.edu/category/news/newsletter/page/8/0
+https://priceschool.usc.edu/programs/masters/mpp/alumni-stories/
+0
+
+Bing
+https://about.usc.edu/history/
+0https://priceschool.usc.edu/new-book-chronicles-life-and-legacy-of-sol-price/0
+http://priceschool.usc.edu/0
+http://about.usc.edu/history/founders/0
+https://www.facebook.com/uscprice
+0
+
